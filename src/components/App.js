@@ -4,7 +4,7 @@ import Nav from './Nav'
 import hogs from '../porkers_data';
 import HogList from './HogList';
 import HogDetails from './HogDetails';
-
+ 
 class App extends Component {
   
   state = {
